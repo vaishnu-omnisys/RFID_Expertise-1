@@ -1,0 +1,10 @@
+RFID System Design & Implementation 
+You're deploying an RFID system in a warehouse with 50,000 SKUs on metal shelving units containing liquids and metals. 
+
+Design the complete system: 
+Which frequency would you choose and why? 
+How would you handle the metal/liquid interference? 
+Calculate the number of readers needed for 10,000 sq ft
+Determine antenna placement strategy
+Explain your approach to anti-collision when 200+ tags might be in a reader's field simultaneously. 
+What middleware filtering would you implement?
