@@ -1,0 +1,11 @@
+Quick Summary One-liner for each major layer
+
+Frequency → UHF + special tags
+Tags → On-metal / anti-liquid variants
+Readers → 10–20 × 4-port fixed
+Placement → Portals first, then ceiling
+Anti-collision → Slotted ALOHA (handles hundreds fast)
+Filters → First Seen → Highest RSSI → Unique DB
+Logic → IN/OUT sequencing + anomaly detection
+UI → Real-time dashboard with exceptions
+Money → Loss prevention is usually #1 payback
